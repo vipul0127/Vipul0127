@@ -1,7 +1,7 @@
 ![logo](https://github.com/vipul0127/Vipul0127/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">Aspiring Software Engineer with a Passion for Full Stack Development</h3>
-<img align="right" alt="coding" width="400" src= "https://www.figma.com/design/xQkUI4mmihp0tBTf1pqI0z/README-Github-Banner-(Community)?node-id=0-1">
+<img align="right" alt="coding" width="400" src= "https://github.com/vipul0127/Vipul0127/blob/main/gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul0127&label=Profile%20views&color=0e75b6&style=flat" alt="vipul0127" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.vipul-iiitd.in/](https://www.vipul-iiitd.in/)

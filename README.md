@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Vipul22576@iiitd.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1djSwMdmkevfA8gvQcHOECpLHXUAo2CEZ/edit?usp=sharing&ouid=104916372603073275722&rtpof=true&sd=true](https://docs.google.com/document/d/1djSwMdmkevfA8gvQcHOECpLHXUAo2CEZ/edit?usp=sharing&ouid=104916372603073275722&rtpof=true&sd=true)
+- 📄 Know about my experiences [http://vipul-iiitd.in/MyResume/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">Aspiring Software Engineer with a Passion for Full Stack Development</h3>
-
+<img align="right" alt="coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw0q_mS5WHPcABnK-pVEgEUa&ust=1729216779102000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiitdSolIkDFQAAAAAdAAAAABBV">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul0127&label=Profile%20views&color=0e75b6&style=flat" alt="vipul0127" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.vipul-iiitd.in/](https://www.vipul-iiitd.in/)

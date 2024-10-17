@@ -23,7 +23,7 @@
 
 </p>
 <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-<h4 align="left">My Open Source Projects</h4>
+<h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">
     <tr>
         <td><a href="https://github.com/vipul0127/nlp-ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis and text autocorrect</td>

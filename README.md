@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Vipul22576@iiitd.ac.in**
 
-- 📄 Know about my experiences http://vipul-iiitd.in/MyResume/
+- 📄 Know about my experiences www.vipul-iiitd.in/MyResume/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -30,11 +30,11 @@
         <td><a href="https://github.com/vipul0127/mhealth">mHealth</a> - PPG-based health monitoring system with real-time data analysis</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/vipul0127/blinkit-clone">Blinkit Clone Database</a> - Developed the database of a Blinkit-like app using MySQL for backend operations</td>
         <td><a href="https://github.com/vipul0127/stick_hero">Stick Hero</a> - A game developed using OOP concepts with interactive gameplay</td>
+        <td><a href="https://github.com/vipul0127/Zoo-Management-System">Zoo Management</a> - Java-based zoo management system for handling animals, staff, and schedules</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/vipul0127/Zoo-Management-System">Zoo Management</a> - Java-based zoo management system for handling animals, staff, and schedules</td>
+        <td><a href="https://github.com/vipul0127/blinkit-clone">Blinkit Clone Database</a> - Developed the database of a Blinkit-like app using MySQL for backend operations</td>
         <td><a href="https://github.com/vipul0127/library-management">Library Management</a> - Real-time library management system with book lending and inventory tracking</td>
     </tr>
     <tr>

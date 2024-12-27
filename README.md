@@ -26,7 +26,7 @@
 <h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">
     <tr>
-        <td><a href="https://github.com/vipul0127/nlp-ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis and text autocorrect</td>
+        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis and text autocorrect</td>
         <td><a href="https://github.com/vipul0127/mhealth">mHealth</a> - PPG-based health monitoring system with real-time data analysis</td>
     </tr>
     <tr>

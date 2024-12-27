@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/vipul0127/BLINKIT">Blinkit Clone Database</a> - Blinkit Clone Database - Developed the backend database for a Blinkit-like app using MySQL, enabling efficient inventory management, order processing, and real-time updates.</td>
-        <td><a href="https://github.com/vipul0127/library-management">Library Management</a> - Library Management - A real-time library management system for book lending, inventory tracking, and seamless user interactions, enhancing library operations and resource management.</td>
+        <td><a href="https://github.com/vipul0127/library_management">Library Management</a> - Library Management - A real-time library management system for book lending, inventory tracking, and seamless user interactions, enhancing library operations and resource management.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/vipul0127/assembler">Assembler</a> - A tool designed to convert assembly language code into machine code, simplifying the process of assembly language programming and improving code translation accuracy.</td>

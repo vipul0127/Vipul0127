@@ -26,7 +26,7 @@
 <h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">
     <tr>
-        <td><a href="https://github.com/vipul0127/mhealth">mHealth</a> - A PPG-based health monitoring system with real-time data analysis, providing continuous health tracking, early detection, and personalized insights for improved wellness.</td>
+        <td><a href="https://github.com/vipul0127/mhealth">Mhealth</a> - A PPG-based health monitoring system with real-time data analysis, providing continuous health tracking, early detection, and personalized insights for improved wellness.</td>
         <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> -A collection of 5 mini NLP projects, including sentiment analysis, text autocorrect, emotion detection, text classification, and named entity recognition, showcasing various NLP techniques for practical applications.td>
     </tr>
     <tr>

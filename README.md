@@ -27,11 +27,11 @@
 <table align="center">
     <tr>
         <td><a href="https://github.com/vipul0127/mhealth">mHealth</a> - A PPG-based health monitoring system with real-time data analysis, providing continuous health tracking, early detection, and personalized insights for improved wellness.</td>
-        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis and text autocorrect</td>
+        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> -A collection of 5 mini NLP projects, including sentiment analysis, text autocorrect, emotion detection, text classification, and named entity recognition, showcasing various NLP techniques for practical applications.td>
     </tr>
     <tr>
-        <td><a href="https://github.com/vipul0127/stick_hero">Stick Hero</a> - A game developed using OOP concepts with interactive gameplay</td>
-        <td><a href="https://github.com/vipul0127/Zoo-Management-System">Zoo Management</a> - Java-based zoo management system for handling animals, staff, and schedules</td>
+        <td><a href="https://github.com/vipul0127/stick_hero">Stick Hero</a> - A game developed using OOP concepts with interactive gameplay, dynamic levels, smooth animations, and challenging mechanics that test timing and precision.</td>
+        <td><a href="https://github.com/vipul0127/Zoo-Management-System">Zoo Management</a> - A Java-based zoo management system for efficiently handling animals, staff, schedules, and resources, providing seamless administration and streamlined operations for zoo management.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/vipul0127/blinkit-clone">Blinkit Clone Database</a> - Developed the database of a Blinkit-like app using MySQL for backend operations</td>

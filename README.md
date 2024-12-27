@@ -26,8 +26,8 @@
 <h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">
     <tr>
-        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis and text autocorrect</td>
         <td><a href="https://github.com/vipul0127/mhealth">mHealth</a> - PPG-based health monitoring system with real-time data analysis</td>
+        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis and text autocorrect</td>
     </tr>
     <tr>
         <td><a href="https://github.com/vipul0127/stick_hero">Stick Hero</a> - A game developed using OOP concepts with interactive gameplay</td>

@@ -34,7 +34,7 @@
         <td><a href="https://github.com/vipul0127/Zoo-Management-System">Zoo Management</a> - A Java-based zoo management system for efficiently handling animals, staff, schedules, and resources, providing seamless administration and streamlined operations for zoo management.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/vipul0127/blinkit-clone">Blinkit Clone Database</a> - Blinkit Clone Database - Developed the backend database for a Blinkit-like app using MySQL, enabling efficient inventory management, order processing, and real-time updates.</td>
+        <td><a href="https://github.com/vipul0127/BLINKIT">Blinkit Clone Database</a> - Blinkit Clone Database - Developed the backend database for a Blinkit-like app using MySQL, enabling efficient inventory management, order processing, and real-time updates.</td>
         <td><a href="https://github.com/vipul0127/library-management">Library Management</a> - Library Management - A real-time library management system for book lending, inventory tracking, and seamless user interactions, enhancing library operations and resource management.</td>
     </tr>
     <tr>

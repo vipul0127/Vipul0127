@@ -3,8 +3,8 @@
 <h3 align="center">Aspiring Software Engineer with a Passion for Full Stack Development</h3>
 <img align="right" alt="coding" width="400" src= "https://github.com/vipul0127/Vipul0127/blob/main/gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul0127&label=Profile%20views&color=0e75b6&style=flat" alt="vipul0127" /> </p>
-- <a href="https://portfolio.vipul-iiitd.in/" target="_blank">All my links are here @biolinks</a>
 
+- 🔗 All my links are here @biolinks [https://www.vipul-iiitd.in/](https://vipul-iiitd.in/)
 - 👨‍💻 All of my projects are available at [https://www.vipul-iiitd.in/](https://portfolio.vipul-iiitd.in/)
 
 - 📫 How to reach me **Vipul22576@iiitd.ac.in**

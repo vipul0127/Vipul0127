@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul0127&label=Profile%20views&color=0e75b6&style=flat" alt="vipul0127" /> </p>
 
 - 🔗 All my links are here @biolinks [https://www.vipul-iiitd.in/](https://vipul-iiitd.in/)
-- 👨‍💻 All of my projects are available at [https://www.vipul-iiitd.in/](https://portfolio.vipul-iiitd.in/)
+- 👨‍💻 All of my projects are available at [https://www.portfolio.vipul-iiitd.in/](https://portfolio.vipul-iiitd.in/)
 
 - 📫 How to reach me **Vipul22576@iiitd.ac.in**
 

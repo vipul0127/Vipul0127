@@ -10,6 +10,7 @@
 - 📫 How to reach me **Vipul22576@iiitd.ac.in**
 
 
+![Snake animation](https://github.com/vipul0127/Vipul0127/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

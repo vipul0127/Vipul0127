@@ -24,6 +24,20 @@
 
 </p>
 <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipul0127&show_icons=true&theme=radical" alt="vipul0127's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul0127&theme=radical" alt="vipul0127's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul0127&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">
     <tr>

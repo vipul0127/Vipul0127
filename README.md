@@ -13,15 +13,7 @@
 - 👨‍💻 All of my projects are available at [portfolio.vipul-iiitd.in](https://www.portfolio.vipul-iiitd.in/)
 - 📫 How to reach me: **Vipul22576@iiitd.ac.in**
 
----
 
-<!-- Add your updated image with GitHub handle overlay if edited -->
-<!-- Example: ![logo](https://github.com/vipul0127/Vipul0127/blob/main/banner_with_handle.png) -->
-
-<!-- Snake Contribution Animation -->
-![Snake animation](https://github.com/vipul0127/Vipul0127/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <h3 align="left">Connect with me:</h3>
 

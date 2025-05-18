@@ -29,9 +29,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul0127&theme=radical&hide_border=true" width="460" />
-     
-    </td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul0127&theme=radical&hide_border=true" width="450" />
+     </td>
   </tr>
 </table>
 

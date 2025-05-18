@@ -24,15 +24,12 @@
 
 </p>
 <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-<h3 align="left">📊 GitHub Stats</h3>
+
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul0127&theme=radical&hide_border=true" width="340" />
-    </td>
-    <td>
-      <img align="right" alt="coding" width="340" src="https://github.com/vipul0127/Vipul0127/blob/main/gif.gif" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul0127&theme=radical&hide_border=true" width="500" />
     </td>
   </tr>
 </table>

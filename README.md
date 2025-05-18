@@ -24,10 +24,9 @@
 
 </p>
 <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul0127&theme=radical" alt="vipul0127's GitHub streak" />
+</p>
 
 <h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">

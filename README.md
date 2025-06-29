@@ -33,27 +33,29 @@
      </td>
   </tr>
 </table>
-
 <h4 align="left">Highlights from My Open Source Work</h4>
 <table align="center">
     <tr>
+        <td><a href="https://github.com/vipul0127/CryptVault">CryptVault</a> - A Django password manager app with Chrome extension, using AES-256 encryption for SQLite storage, enabling secure credential management for 1000+ sites with complete offline functionality.</td>
+        <td><a href="https://github.com/vipul0127/IIITD-PYQ-HUB/">PYQ Hub IIITD</a> - A scalable Django web app with classroom automation, processing 2500+ PYQs using file hash deduplication and voice-activated search for 85+ subjects with complete offline functionality.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/vipul0127/M-Health">M-Health</a> - A PPG-based health monitoring system with real-time data analysis, providing continuous health tracking, early detection, and personalized insights for improved wellness.</td>
-        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> -A collection of 5 mini NLP projects, including sentiment analysis, text autocorrect, emotion detection, text classification, and named entity recognition, showcasing various NLP techniques for practical applications.td>
+        <td><a href="https://github.com/vipul0127/nlp_ecosystem">NLP Ecosystem</a> - A collection of 5 mini NLP projects, including sentiment analysis, text autocorrect, emotion detection, text classification, and named entity recognition, showcasing various NLP techniques for practical applications.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/vipul0127/stick_hero">Stick Hero</a> - A game developed using OOP concepts with interactive gameplay, dynamic levels, smooth animations, and challenging mechanics that test timing and precision.</td>
         <td><a href="https://github.com/vipul0127/Zoo-Management-System">Zoo Management</a> - A Java-based zoo management system for efficiently handling animals, staff, schedules, and resources, providing seamless administration and streamlined operations for zoo management.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/vipul0127/BLINKIT">Blinkit Clone Database</a> - Blinkit Clone Database - Developed the backend database for a Blinkit-like app using MySQL, enabling efficient inventory management, order processing, and real-time updates.</td>
-        <td><a href="https://github.com/vipul0127/library_management">Library Management</a> - Library Management - A real-time library management system for book lending, inventory tracking, and seamless user interactions, enhancing library operations and resource management.</td>
+        <td><a href="https://github.com/vipul0127/BLINKIT">Blinkit Clone Database</a> - Developed the backend database for a Blinkit-like app using MySQL, enabling efficient inventory management, order processing, and real-time updates.</td>
+        <td><a href="https://github.com/vipul0127/library_management">Library Management</a> - A real-time library management system for book lending, inventory tracking, and seamless user interactions, enhancing library operations and resource management.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/vipul0127/assembler">Assembler</a> - A tool designed to convert assembly language code into machine code, simplifying the process of assembly language programming and improving code translation accuracy.</td>
+        <td></td>
     </tr>
-</table>
-
-<h3 align="left">Languages and Tools:</h3>
+</table><h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
